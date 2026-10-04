@@ -26,7 +26,7 @@ An enterprise-grade analytical solution built to decode transactional datasets, 
    * Designed and built interactive Power BI dashboards tracking transaction volume, customer activity, revenue generation, and product usage metrics.
    * Configured dynamic KPIs and cross-filtering capabilities for stakeholder-ready insights.
 
-![Power BI Dashboard Preview](assests/dashboard.png)
+![Power BI Dashboard Preview](asset/dashboard.png)
 ---
 
 ## 📂 Repository Structure
